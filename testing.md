@@ -3,12 +3,12 @@ Lab Report 1
 _Sravya Chittuluri_
 
 **Find your course-specific account**
-* Open [Link](https://sdacs.ucsd.edu/~icc/index.php)
-* If you need to reset your password, go to [Link](https://sdacs.ucsd.edu/~icc/index.php) and follow the prompts. When choosing a new password, click on the Confirm Password field and click enter. 
+* Open [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
+* If you need to reset your password, go to [account lookup](https://sdacs.ucsd.edu/~icc/index.php) and follow the prompts. When choosing a new password, click on the Confirm Password field and click enter. 
 * If it's successful, enter ssh ACCOUNT_NAME@ieng6.ucsd.edu in VSCode's terminal and enter your password when prompted.
 
 **Install VSCode**
-* Go to [Link](https://code.visualstudio.com/) and follow the instructions to download VSCode on your operating system.
+* Go to [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download VSCode on your operating system.
 * After installing, open VSCode.
 
 ![Image](<img width="983" alt="image" src="https://user-images.githubusercontent.com/75595601/212614594-f1fc6c01-6007-4719-b294-723a1ce8537f.png">)
