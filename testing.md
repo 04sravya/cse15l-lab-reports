@@ -4,7 +4,7 @@ _Sravya Chittuluri_
 
 **Find your course-specific account**
 * Open [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
-* If you need to reset your password, go to [account lookup](https://sdacs.ucsd.edu/~icc/index.php) and follow the prompts. When choosing a new password, click on the Confirm Password field and click enter. 
+* If you need to reset your password, go to [this link](https://sdacs.ucsd.edu/~icc/index.php) and follow the prompts. When choosing a new password, click on the Confirm Password field and click enter. 
 * If it's successful, enter ssh ACCOUNT_NAME@ieng6.ucsd.edu in VSCode's terminal and enter your password when prompted.
 
 **Install VSCode**
