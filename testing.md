@@ -11,7 +11,7 @@ _Sravya Chittuluri_
 * Go to [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download VSCode on your operating system.
 * After installing, open VSCode.
 
-![Image](<img width="983" alt="image" src="https://user-images.githubusercontent.com/75595601/212614594-f1fc6c01-6007-4719-b294-723a1ce8537f.png">)
+<img width="983" alt="image" src="https://user-images.githubusercontent.com/75595601/212614594-f1fc6c01-6007-4719-b294-723a1ce8537f.png">
 
 **Connect to Remote Server**
 * Make sure you have Git installed
@@ -23,11 +23,11 @@ _Sravya Chittuluri_
 * If this is your first time connecting to the server, enter 'yes' to continue
 * Enter your password. 
 
-![Image](<img width="622" alt="image" src="https://user-images.githubusercontent.com/75595601/212735961-ce56592e-0edf-438d-b52d-e777a63e9495.png">)
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/75595601/212735961-ce56592e-0edf-438d-b52d-e777a63e9495.png">
 
 **Run Commands**
 * I ran several commands like `cd` (change directory), `ls` (list), `pwd` (present working directory) and others to see how they worked.
 * To log out of the remote server, use Ctrl-D and the `exit` command.
 
-![Image](<img width="622" alt="image" src="https://user-images.githubusercontent.com/75595601/212747651-ab12330b-4b4b-4dc6-adaf-bbf8e3ed5908.png">)
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/75595601/212747651-ab12330b-4b4b-4dc6-adaf-bbf8e3ed5908.png">
 
