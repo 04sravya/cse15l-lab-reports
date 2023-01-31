@@ -7,8 +7,7 @@ _Sravya Chittuluri_
 Code for my StringServer.java file: 
 
 <img width="893" alt="image" src="https://user-images.githubusercontent.com/75595601/215631966-9136499f-8ae6-4a5d-936b-9af3081da421.png">
-* Here, I define the `handleRequest` method, which uses the `equals`, `getPath`, and the `split` methods. 
-* The `handleRequest` method takes in a URI object (a url) and checks to see if it has "add-message" in the path using the equals method. If it does, then it checks if the query has a string to add to the message being displayed.
+* Here, I define the `handleRequest` method, which uses the `equals`, `getPath`, and the `split` methods. The `handleRequest` method takes in a URI object (a url) and checks to see if it has "add-message" in the path using the equals method. If it does, then it checks if the query has a string to add to the message being displayed.
 
 Output in the local host: 
 
